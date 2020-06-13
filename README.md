@@ -5,7 +5,7 @@
 • If you want to check the deployed model, click on the following link: <br>
   Deployed at: https://uber-rides-predictor.herokuapp.com/
   
-• Template inspired by Anuj Vyas 
+• Template inspired by Anuj Vyas <br>
 • Based on project by Knowledge Shelf
 
   
@@ -13,5 +13,5 @@
 
 • A glimpse of the web app: <br>
 
-<img src="/demo1.gif" width="898" height="394.27"/>
+<img src="/demo3.gif" width="898" height="394.27"/>
 
