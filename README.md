@@ -9,5 +9,5 @@
 
 • A glimpse of the web app: <br>
 
-![](demo1.gif)
+<img src="/demo1.gif" width="622.93" height="500"/>
 
