@@ -9,5 +9,5 @@
 
 • A glimpse of the web app: <br>
 
-<img src="/demo1.gif" width="622.93" height="500"/>
+<img src="/demo1.gif" width="898" height="394.27"/>
 
