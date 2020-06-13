@@ -5,7 +5,11 @@
 • If you want to check the deployed model, click on the following link: <br>
   Deployed at: https://uber-rides-predictor.herokuapp.com/
   
-• Please do ⭐ the repository, if it helped you:
+• Template inspired by Anuj Vyas 
+• Based on project by Knowledge Shelf
+
+  
+• Please do ⭐ the repository, if it helped you
 
 • A glimpse of the web app: <br>
 
