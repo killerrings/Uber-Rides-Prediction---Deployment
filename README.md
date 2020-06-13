@@ -8,5 +8,5 @@
 • Please do ⭐ the repository, if it helped you in anyway.
 
 • A glimpse of the web app:
-![](demo1.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
+![](demo1.gif)
 
