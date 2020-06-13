@@ -7,6 +7,8 @@
   
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app:
+• A glimpse of the web app: <br>
+<div align="center">
 ![](demo1.gif)
+</div>
 
