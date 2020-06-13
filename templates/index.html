@@ -17,19 +17,21 @@
         </div>
     </div>
 
-    <!-- Text Area -->
+   <!-- Text Area -->
     <div class="ml-container">
         <form action="{{url_for('predict')}}" method="POST">
-            <input class="form-input" type="text" name="Price per week eg. 25" placeholder="Priceperweek" required="required"><br>
-            <input class="form-input" type="text" name="Population eg.1800000" placeholder="Population" required="required"><br>
-            <input class="form-input" type="text" name="Monthly income eg. 20000" placeholder="Monthlyincome" required="required"><br>
-            <input class="form-input" type="text" name="Average parking per month eg. 90" placeholder="Averageparkingpermonth" required="required"><br>
+            <input class="form-input" type="text" name="Priceperweek" placeholder="Price per week eg. 25" required="required"><br>
+            <input class="form-input" type="text" name="Population" placeholder="Population eg.1800000" required="required"><br>
+            <input class="form-input" type="text" name="Monthlyincome" placeholder="Monthly income eg. 20000" required="required"><br>
+            <input class="form-input" type="text" name="Averageparkingpermonth" placeholder="Average parking per month eg. 90" required="required"><br>
             <button type="submit" class="my-cta-button">Predict</button>
         </form>
     </div>
     <br>
     <br>
     {{ prediction_text }}
+    <br>
+    <br>
 
     <!-- Footer -->
     <div class='footer'>
